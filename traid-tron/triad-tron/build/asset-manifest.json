@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab00e8ff.css",
+    "main.js": "/static/js/main.2fcc4553.js",
+    "static/media/TronLinkLogo.png": "/static/media/TronLinkLogo.3bf5f97cf0a90fcb0113.png",
+    "index.html": "/index.html",
+    "main.ab00e8ff.css.map": "/static/css/main.ab00e8ff.css.map",
+    "main.2fcc4553.js.map": "/static/js/main.2fcc4553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab00e8ff.css",
+    "static/js/main.2fcc4553.js"
+  ]
+}
